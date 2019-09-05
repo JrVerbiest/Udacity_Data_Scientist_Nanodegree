@@ -6,12 +6,7 @@ In this project, real-life data is provided by Bertelsmann partners AZ Direct an
 
 <br>
 
-## Submission
-
-The final submission is available at [GitHub](https://github.com/JrVerbiest/Udacity_Nanodegrees/blob/master/Udacity-Data-Scientist-Nanodegree/Project_Identify_Customer_Segments/Identify_Customer_Segments.ipynb)
-
-<br>
-
 ------
 
-*Last update: 24 February 2019*
+*Last update: 5 September 2019*
+

@@ -107,14 +107,8 @@ The modified census dataset consists of approximately 32,000 data points, with e
 | **Question 7:** Extracting Feature Importances | Student correctly implements a supervised learning model that makes use of the `feature_importances_` attribute. Additionally, student discusses the differences or similarities between the features they considered relevant and the reported relevant features. |
 | **Question 8:** Effects of Feature Selection   | Student analyzes the final model's performance when only the top 5 features are used and compares this performance to the optimized model from **Question 5**. |
 
-
-
-## Submission
-
-The final submission is available at [GitHub](https://github.com/JrVerbiest/Udacity_Nanodegrees/blob/master/Udacity-Data-Scientist-Nanodegree/Project_Finding_Donors_for_CharityML/finding_donors.ipynb)
-
 <br>
 
 ------
 
-*Last update: 22 December 2018*
+*Last update: 5 September 2019*
